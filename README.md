@@ -4,7 +4,7 @@
 <img src="https://github.com/JuniorTorresMTJ/FraudBoleto/blob/main/img/BANNER.png" min-width="300px" max-width="200px" width="750px" > 
 </p>
 <p align= "center">
-Aqui seu sonho é nossa torre, o nosso norte.
+
 </p>
 
 
