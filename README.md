@@ -68,6 +68,6 @@
 ### **FONTES** <img width="20px" src="https://github.com/JuniorTorresMTJ/FraudBoleto/blob/main/img/fraud.png" /> 
 ***
 
- <img width="20px" src="https://github.com/JuniorTorresMTJ/FraudBoleto/blob/main/img/fraud.png" /> Kaggle: [Link](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/FraudBoleto/blob/main/img/fraud.png" /> Kaggle: [Link](https://www.kaggle.com)
 
 <img width="20px" src="https://github.com/JuniorTorresMTJ/FraudBoleto/blob/main/img/fraud.png" /> Dados: [Github](https://github.com/JuniorTorresMTJ/TowerBank/tree/main/dados)
